@@ -3040,6 +3040,7 @@
       <entry value="17" name="ADSB_EMITTER_TYPE_EMERGENCY_SURFACE"/>
       <entry value="18" name="ADSB_EMITTER_TYPE_SERVICE_SURFACE"/>
       <entry value="19" name="ADSB_EMITTER_TYPE_POINT_OBSTACLE"/>
+      <entry value="255" name="ADSB_EMITTER_TYPE_UNKNOWN"/>
     </enum>
     <enum name="ADSB_FLAGS" bitmask="true">
       <description>These flags indicate status such as data validity of each data source. Set = data valid</description>
